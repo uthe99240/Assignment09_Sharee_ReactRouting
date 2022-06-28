@@ -25,7 +25,7 @@ const Home = () => {
                 </div>
             </div>
             <h2 className='text-3xl font-bold mt-4'>Customer Review(3)</h2>
-            <div className='grid grid-cols-3 gap-5'>
+            <div className='grid grid-cols-3 gap-5 mx-24'>
                 {
                     customerReview.map(review => <CustomerReview
                         key={review._id} review={review}></CustomerReview>)
