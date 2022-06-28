@@ -11,7 +11,6 @@ const Header = () => {
                 <Link className='p-8 text-2xl underline underline-offset-8 focus:text-white' to="/reviews">REVIEWS</Link>
                 <Link className='p-8 text-2xl underline underline-offset-8 focus:text-white' to="/dashboard">DASHBOARD</Link>
                 <Link className='p-8 text-2xl underline underline-offset-8 focus:text-white' to="/blogs">BLOGS</Link>
-                <Link className='p-8 text-2xl underline underline-offset-8 focus:text-white' to="/about">ABOUT</Link>
             </nav>
         </div>
     );
