@@ -1,5 +1,5 @@
 # Welcome to Visit Sharee Bazar Website.
-Live site : 
+Live site : https://bright-lebkuchen-c66bf3.netlify.app/
 
 * This is a Sharee Review site.
 * This project used line chart & barcharts.
