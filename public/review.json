@@ -1,0 +1,44 @@
+[
+    {
+      "_id": "624a690ed3d885aa83b35b5b",
+      "rating": 4,
+      "name": "Sophia Franklin",
+      "about": "Wonderful..My wife is so happy! Thank you very much for delivery product in time.",
+      "img":"./image/pic-1.png"
+    },
+    {
+      "_id": "624a690ec0163f8cced01e9f",
+      "rating": 1,
+      "name": "Rowe Ortiz",
+      "about": "Awesome.Wonderful..My sister is so happy! Thank you very much for delivery product in time.",
+      "img":"./image/pic-2.png"
+    },
+    {
+      "_id": "624a690ed04315c9c352010f",
+      "rating": 2,
+      "name": "Katherine Hansen",
+      "about": "Wonderful..My wife is so happy! Thank you very much for delivery product in time.!!!",
+      "img":"./image/pic-3.png"
+    },
+    {
+      "_id": "624a690e3f4c250c99e06c0e",
+      "rating": 4,
+      "name": "Orr Franks",
+      "about": "Excellent..I am confused.I want to buy all saree...but i have not much money.Please i want to some discount",
+      "img":"./image/pic-4.png"
+    },
+    {
+      "_id": "624a690e3d626a8c132f0ad7",
+      "rating": 3,
+      "name": "Molly Pugh",
+      "about": "Wonderful..My wife is so happy! Thank you very much for delivery product in time.!!!",
+      "img":"./image/pic-5.png"
+    },
+    {
+      "_id": "624a690ed16fcf39ff9811a8",
+      "rating": 5,
+      "name": "Angela Guthrie",
+      "about": "Excellent..I am confused.I want to buy all saree...but i have not much money.Please i want to some discount",
+      "img":"./image/pic3.png"
+    }
+  ]

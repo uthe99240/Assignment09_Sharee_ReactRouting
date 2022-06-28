@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from "react-router-dom";
-import Details from '../Details/Details';
+import Home from '../Home/Home';
 
 
 const Header = () => {
@@ -13,7 +13,6 @@ const Header = () => {
                 <Link className='p-8 text-2xl' to="/blogs">BLOGS</Link>
                 <Link className='p-8 text-2xl' to="/about">ABOUT</Link>
             </nav>
-            <Details></Details>
         </div>
     );
 };
